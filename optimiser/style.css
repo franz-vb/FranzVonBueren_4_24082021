@@ -530,6 +530,10 @@ button {
     opacity: 1;
 }
 
+h3 a{
+    text-decoration: underline;
+}
+
 a[data-lightbox] {
     position: relative;
     display: block;
@@ -704,12 +708,12 @@ p {
     margin: auto auto auto auto;
 }
 
-h2 {
+h3 {
     font-size: 22px;
     line-height: 1.4em;
 }
 
-h3 {
+h2 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
@@ -813,7 +817,7 @@ h4 {
     background-image: url("img/dots-bg.png");
 }
 
-.bg-lines-h2-bg {
+.bg-lines-h3-bg {
     background-image: url("img/lines-h2-bg.png");
 }
 
