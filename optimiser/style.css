@@ -362,6 +362,14 @@ a:hover {
     z-index: 2;
 }
 
+
+.mod_1_text{
+    font-size: 20px;
+    width: 600px;
+    display: flex;
+    margin-left: 20%;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
