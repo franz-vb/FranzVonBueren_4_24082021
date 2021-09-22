@@ -364,10 +364,26 @@ a:hover {
 
 
 .mod_1_text{
-    font-size: 20px;
+    font-size: 22px;
     width: 600px;
     display: flex;
     margin-left: 20%;
+}
+.mod_2_text{
+    font-size: 20px;
+    width: 500px;
+    margin-left: 15%;
+    font-style: italic;
+}
+.mod_3_text{
+    font-size: 14px;
+    margin-left: 6%;
+    
+}
+.mod_4_text{
+    width: 450px;
+    margin-left: 28%;
+    font-size: 22px;
 }
 
 @media (min-width: 768px) {
