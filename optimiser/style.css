@@ -365,25 +365,22 @@ a:hover {
 
 .mod_1_text{
     font-size: 22px;
-    width: 600px;
     display: flex;
-    margin-left: 20%;
+    width: 100%;
 }
 .mod_2_text{
     font-size: 20px;
-    width: 500px;
-    margin-left: 15%;
     font-style: italic;
+    width: 100%;
 }
 .mod_3_text{
     font-size: 14px;
-    margin-left: 6%;
+    width: 100%;
     
 }
 .mod_4_text{
-    width: 450px;
-    margin-left: 28%;
     font-size: 22px;
+    width: 100%;
 }
 
 @media (min-width: 768px) {
@@ -803,7 +800,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
